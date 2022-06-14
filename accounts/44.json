@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "torrent-downloader-339304",
+  "private_key_id": "5892c074f643ac63198d93075e66e7074adf492d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0FYygK9qdsFuF\n5XNMq3TLe0OXKEfvJBMH8NZkrRdg5vgszPwrxJggbkvrlEwd1VQ+90zYSFPwiyBq\ntS+apsrMt5sHPSAI3vPjJ3B5PPPZCmxMfbPc0pqQISXapVmi81/aHmLi0psv2FzJ\nzdZLybdjby8L7eLC48sZ3aGrsz7xXIOPVIoTaUEhMfddSKKNdXDQWKtXvLJcZE+9\nrXPbkFYEeTfB/86/2a3Md8S7JAKhkmF7x+qMOoJ9J6hDc762AwB3aN/zwBLeb3IO\nh4X3Sx0m94fB5EDAPrNpZW9+zeouBiPfHNl24nBpDD2AOu1TsBeJq/Gt3StY5tyd\n1R0pTfAbAgMBAAECggEATggGYsMN3AU2azrkroSeu6sCOyXPoa46dtbjN0WPW0RJ\npjP+UsLBfk/8oqwkHUs6UXxb9l3EzXajiclPws3iEzm9ubHBR0bAXB3TTR1dth6f\nlbdkL9ur8KcEXY0HXaXiU0OWap2CdAVnE2SXJkjWJ4ZeVudxuiv1bhRMgPdO30sR\natbcOXsr0WSAS5IlpYJYKmaxMqefGfSSyDLkXTsEk88eWvzt1hxfTQcxV7zr0gcl\n571R0A8zGCKus3Hm9+buKqUMxjIC5V8qbTn1JjQTdkRtoQ9GXQBKs7xLodMervOj\nCsjluf5v9zsCF647/2SjM9/l26EXdtWJKip80sOSxQKBgQDvCSGDC2DZf69PXubr\nTRv9AM92TzspP1yi/F2Z5sskEt+ot6Xzc6NKoxPGCgruwWHQ60/Q4dHbo9LFCWja\noIqZuS1fMQLGSZ6pBajZvNkkcZikjp+bEHJcnKAISOrFcFu0D6elSQ2mBl863Qzj\npMe5niwB1MsQ4IBncJUqTJNNVQKBgQDA3V7l1eSc8JcsIhOeM74AtN3iDXq1gs+W\nLMbWlDaHAVQ7nH0Wnqf4miqyjqijmIx7IxEq+/0jkRfG9+wHgCYXIvQmpCm07NF4\n5LLbaSUOGimY09+i3fiT5wk1sx/LqONaLOXIEa9u60KucPbJ3aKU832T0b34oQ6s\n5DJEyYPHrwKBgCiDv65aa1vyDGDDkRgoxamoTYGcBEcFekoVxDelqqC+ojISjooo\n+3BXG67hXOEC3fVvLOQWol878Sl8Ys1LkLJldI9B21qId9/mGaxuGc/XgSvDEMJT\nk06nLWi6EzDLzn9CeAPH0gxl4BY2CU08TK3lZUgaLSD7LEhcCKxWtlDRAoGAWipk\nRlFEKvbzxec8grav+oaUQS2KE7fPMudGImVyRJWjeqcDeAK+hqQUmBvHzYvxCVRw\nn0blpq4bjqKzjyIjLKfjuvj+op4gpENPNvKmJzyl+9P59puNrh/SF2/hyoXvnGXn\nGyzhdpq4NvOK/P8IFljreaMSDF3HjZ61vaD0YfMCgYEAiIkqzGY6b/eZkkmYqDBC\nucfsMQ949fgnHMpHztElySW7g5TExap4NMu/vWsC7S4oWY8TzoHw2Oz+HLKpsVT4\ntvgZfWrH12hFBquG7j4fDD9NZj55GZROUQrFhQCqQUzOsX2Iqfz7DUfwMhdm0+ZI\nTAkZmZlmn0ty0rZx8qkQpBY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-sfjec37ep5mb773-mxmitz7c94@torrent-downloader-339304.iam.gserviceaccount.com",
+  "client_id": "115165700230282537974",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-sfjec37ep5mb773-mxmitz7c94%40torrent-downloader-339304.iam.gserviceaccount.com"
+}
